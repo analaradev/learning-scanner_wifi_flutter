@@ -1,24 +1,35 @@
 # Scanner WiFi Flutter
 
-Repositorio de aprendizaje enfocado en una aplicacion Flutter para explorar funciones relacionadas con redes WiFi.
+<div align="center">
 
-## Objetivo
+![Learning](https://img.shields.io/badge/Tipo-Aprendizaje-0ea5e9?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![WiFi](https://img.shields.io/badge/Tema-WiFi-16a34a?style=for-the-badge)
 
-Practicar el desarrollo de una aplicacion movil que interactua con informacion de conectividad, escaneo o consulta de redes, reforzando el trabajo con paquetes, permisos y flujo de datos.
+**Practica de aprendizaje sobre scanner WiFi y conectividad en Flutter.**
 
-## Tecnologias
+</div>
 
-- Flutter
-- Dart
-- Funcionalidades de conectividad
-
-## Enfoque del proyecto
-
-- Practica de integracion con servicios del dispositivo
-- Manejo de permisos y configuraciones
-- Visualizacion de informacion de red
-- Experimentacion con funcionalidades tecnicas en Flutter
+---
 
 ## Contexto
 
-Proyecto de aprendizaje para fortalecer habilidades en desarrollo movil y exploracion de capacidades del sistema.
+Repositorio de aprendizaje enfocado en explorar funciones relacionadas con redes WiFi, conectividad y servicios del dispositivo.
+
+## Proposito
+
+- Practicar integracion con capacidades del dispositivo.
+- Manejar permisos y configuraciones.
+- Visualizar informacion de red.
+- Explorar funcionalidades tecnicas en Flutter.
+
+## Tecnologias
+
+![Flutter](https://img.shields.io/badge/Flutter-2563eb?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0ea5e9?style=flat-square&logo=dart&logoColor=white)
+![WiFi](https://img.shields.io/badge/WiFi-16a34a?style=flat-square)
+![Connectivity](https://img.shields.io/badge/Conectividad-f97316?style=flat-square)
+
+## Estado
+
+Proyecto de aprendizaje para explorar capacidades del sistema.
