@@ -1,16 +1,24 @@
-# scanner_wifi
+# Scanner WiFi Flutter
 
-A new Flutter project.
+Repositorio de aprendizaje enfocado en una aplicacion Flutter para explorar funciones relacionadas con redes WiFi.
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+Practicar el desarrollo de una aplicacion movil que interactua con informacion de conectividad, escaneo o consulta de redes, reforzando el trabajo con paquetes, permisos y flujo de datos.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Funcionalidades de conectividad
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Enfoque del proyecto
+
+- Practica de integracion con servicios del dispositivo
+- Manejo de permisos y configuraciones
+- Visualizacion de informacion de red
+- Experimentacion con funcionalidades tecnicas en Flutter
+
+## Contexto
+
+Proyecto de aprendizaje para fortalecer habilidades en desarrollo movil y exploracion de capacidades del sistema.
